@@ -1,0 +1,7 @@
+{
+  "products": [
+    { "id": 1, "name": "Wireless Mouse", "price": 25, "category": "Electronics", "description": "Comfortable wireless mouse." },
+    { "id": 2, "name": "Water Bottle", "price": 12, "category": "Home", "description": "1 litre steel bottle."},
+    { "id": 3, "name": "Notebook", "price": 5, "category": "Stationery", "description": "A5 ruled notebook." }
+  ]
+}
