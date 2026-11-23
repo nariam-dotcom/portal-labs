@@ -6,10 +6,12 @@ export default function ProductCard({ product }) {
       <img src={product.image} alt={product.name} />
       <h3>{product.name}</h3>
       <p className="category">{product.category}</p>
+      <p className="tags">
+        <span className="tag">{product.color}</span>
+        <span className="tag">{product.design}</span>
+      </p>
       <p className="price">${product.price}</p>
-      <Link to={`/products/${product.id}`} className="btn">
-        View / Edit
-      </Link>
+      <Link to={`/products/${product.id}`} className="btn">View / Edit</Link>
     </article>
   );
 }

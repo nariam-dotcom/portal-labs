@@ -26,7 +26,11 @@ h2 {
   color: #0a0a0a;
 }
 
+.heading {
+  font-size: larger;
+  font-family: Georgia, 'Times New Roman', Times, serif;
 
+}
 img { 
   max-width: 100%; 
   display: block;
@@ -212,6 +216,20 @@ textarea:focus {
 .detail > button:hover {
   background: var(--red-bright);
   color: white;
+}
+
+.tags { 
+  display: flex; 
+  gap: 0.4rem; 
+  flex-wrap: wrap; 
+}
+
+.tag {
+  font-size: 0.75rem;
+  padding: 0.15rem 0.6rem;
+  border: 1px solid var(--red);
+  border-radius: 999px;
+  color: var(--text);
 }
 
 @media (min-width: 600px) {

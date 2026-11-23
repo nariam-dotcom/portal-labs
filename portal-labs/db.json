@@ -1,7 +1,27 @@
 {
   "products": [
-    { "id": 1, "name": "Wireless Mouse", "price": 25, "category": "Electronics", "description": "Comfortable wireless mouse." },
-    { "id": 2, "name": "Water Bottle", "price": 12, "category": "Home", "description": "1 litre steel bottle."},
-    { "id": 3, "name": "Notebook", "price": 5, "category": "Stationery", "description": "A5 ruled notebook." }
+    { "id": 1, "name": "Royal Gold Choker", "price": 120, "category": "Necklaces", "color": "Gold", "design": "Chain", "description": "Layered gold-tone choker with a fine chain finish.", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnQ8PiXueINimmtCRdb0-2b_vsa5WyHfccKpft0fi3DA&s=10" },
+    { "id": 2, "name": "Midnight Pearl Strand", "price": 95, "category": "Necklaces", "color": "Black", "design": "Pearl", "description": "Black pearl strand with a silver clasp.", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjS_nlekKHEpHEO6Ux3dDFGzxU7ViZVQsT1wvrcDP9sw&s=10" },
+    { "id": 3, "name": "Crimson Crystal Pendant", "price": 150, "category": "Necklaces", "color": "Red", "design": "Crystal", "description": "Deep red crystal pendant on a slim chain.", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA_oKTtGg0LJToR-zn-8mXuoz-KtJhVNUS9dx4t7gSxQ&s=10" },
+
+    { "id": 4, "name": "Classic Gold Bangle Set", "price": 80, "category": "Bangles", "color": "Gold", "design": "Minimalist", "description": "Set of six slim polished bangles.", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBIdOsDEJrVn0t_w0OXr0gxAOLsXkizJFLVtiAAbax0A&s=10" },
+    { "id": 5, "name": "Silver Tribal Bangle", "price": 65, "category": "Bangles", "color": "Silver", "design": "Tribal", "description": "Wide silver bangle with engraved tribal patterns.", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYtGrzvjaDi4FFNbNRKgYTUAm5O0sbz1b_Y8FP8JHR0g&s=10" },
+    { "id": 6, "name": "Rose Beaded Bangle", "price": 45, "category": "Bangles", "color": "Rose Gold", "design": "Beaded", "description": "Stretch bangle with rose gold beads.", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSIvYq9HF5gRZ5Y17uAAjlauRF1aBh8YrRJhQ0RhEzSg&s=10" },
+
+    { "id": 7, "name": "Sunset Chain Anklet", "price": 40, "category": "Anklets", "color": "Gold", "design": "Chain", "description": "Delicate gold chain anklet with tiny charms.", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb9YkdwCB6E57YetRsIsrGarKkVdJEhwF7cCMYLu-bmw&s" },
+    { "id": 8, "name": "Silver Bell Anklet", "price": 35, "category": "Anklets", "color": "Silver", "design": "Tribal", "description": "Silver anklet with small ringing bells.", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcbgaju4LLeoKWYqWALBMxlZeTOn-VEX0A220rf3smlQ&s=10" },
+    { "id": 9, "name": "Ruby Crystal Anklet", "price": 55, "category": "Anklets", "color": "Red", "design": "Crystal", "description": "Red crystal anklet with an adjustable clasp.", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2z7Pv44eowqc6LfT8OtdZDSkkeWJYWHm_GSiU7YBxUg&s=10" },
+
+    { "id": 10, "name": "Gold Coil Thigh Cuff", "price": 90, "category": "Thigh Cuffs", "color": "Gold", "design": "Minimalist", "description": "Smooth adjustable gold coil for the thigh.", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS4H-3Fh-SRWCSbiNuCXc2RNQJbOck6GzXhcj0OVn_1w&s=10" },
+    { "id": 11, "name": "Black Lace Thigh Cuff", "price": 60, "category": "Thigh Cuffs", "color": "Black", "design": "Beaded", "description": "Black beaded cuff with a lace-style edge.", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmNzVwvBnhYaFmiiJqreWsU9QRfQaXzpwve42ryTyIfg&s=10" },
+    { "id": 12, "name": "Silver Chain Thigh Cuff", "price": 75, "category": "Thigh Cuffs", "color": "Silver", "design": "Chain", "description": "Layered silver chains with a hook closure.", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl_9RuDuom4e1-_zaQCJFrVh1DVkP4I0hNV9iDSO_bVg&s=10" },
+
+    { "id": 13, "name": "Gold Snake Arm Cuff", "price": 85, "category": "Arm Cuffs", "color": "Gold", "design": "Tribal", "description": "Spiral snake design worn on the upper arm.", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1_zztKZ8qvv-vhx822NHNyyxOSB2sOx7lnSNGpBA3xw&s=10" },
+    { "id": 14, "name": "Rose Gold Arm Band", "price": 70, "category": "Arm Cuffs", "color": "Rose Gold", "design": "Minimalist", "description": "Sleek open-ended rose gold armband.", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaAEZ3dyZwuSuIDvZZ6soYzd1uZ0Es7w86zqiRtaKLGw&s=10" },
+    { "id": 15, "name": "Obsidian Crystal Arm Cuff", "price": 110, "category": "Arm Cuffs", "color": "Black", "design": "Crystal", "description": "Black cuff set with faceted crystals.", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFyWx8DIb96_dAq63qUmpfUk1Hz-JKbVdMawp36baNkw&s=10" },
+
+    { "id": 16, "name": "Gold Leaf Headpiece", "price": 130, "category": "Headpieces", "color": "Gold", "design": "Chain", "description": "Gold leaf-style headpiece with a draped chain.", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWDi-U0NA-6ysKNz-CvFLhpDJHF-1y_YrjPcOqi4kfPA&s=10" },
+    { "id": 17, "name": "Pearl Bridal Tiara", "price": 160, "category": "Headpieces", "color": "Silver", "design": "Pearl", "description": "Silver tiara decorated with pearls.", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqYpUS7hjVhjIyYISeFKt33YOHxD0Yj8LddrRjCQhZqg&s=10" },
+    { "id": 18, "name": "Crimson Beaded Headband", "price": 50, "category": "Headpieces", "color": "Red", "design": "Beaded", "description": "Red beaded headband in a tribal style.", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKcIVAzR2xYuH8krgkNwFpsc7DlNULk2Dkd6Dr03O-Gw&s=10" }
   ]
 }
